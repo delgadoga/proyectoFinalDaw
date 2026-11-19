@@ -2,8 +2,6 @@
 
 ## 1. Sector y empresas (CE 1a, 1b)
 
-
-
 |Empresa| Caracteristicas Organizativas | Producto o Servicio que ofrecen |Web|Fuente|
 |---|---|---|---|---|
 | Metricool| Scale-up tecnológica de origen español en rápido crecimiento (+100 empleados). Estructura dinámica orientada a producto (Product-Led Growth) y expansión internacional. | Plataforma todo-en-uno de analítica, planificación, gestión de campañas de anuncios y generación automática de informes para agencias y freelancers. | [ir](https://metricool.com/es/que-es-metricool/)| [ir ](https://es.wikipedia.org/wiki/Metricool)| 
@@ -27,7 +25,7 @@ flowchart TD
     CEO --> ING["Ingeniería y Datos"]
     CEO --> MKT["Marketing y Crecimiento"]
     CEO --> VEN["Ventas"]
-    CEO --> CS[Cliente y Soporte"]
+    CEO --> CS["Cliente y Soporte"]
     CEO --> ADM["Administración, Finanzas y Legal"]
     CEO --> RRHH["Recursos Humanos"]
     PROD --> PM["Product Management"]
