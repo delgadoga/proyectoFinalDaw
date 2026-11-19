@@ -8,7 +8,7 @@
 
 | | |
 |---|---|
-| **Nombre y apellidos** | Gabriela Luz, Delgado|
+| **Nombre y apellidos** | Gabriela Luz Delgado|
 | **Usuario de GitHub** | delgadoga | 
 | **Repositorio del proyecto** | *https://github.com/delgadoga/proyectoFinalDaw* |
 | **Ciclo y curso** | DAW, 2.º · curso 2026-27 |
@@ -71,17 +71,12 @@ Community managers freelance y agencias pequeñas que llevan varias cuentas (el 
 
 ## 8. Dónde se integra con los módulos de 2.º
 
-*Marca los módulos de 2.º cuyos contenidos usarás de forma real en el proyecto (debe haber **al menos tres**).*
-
 - [x] Desarrollo web en entorno cliente (0612)
 - [x] Desarrollo web en entorno servidor (0613)
 - [x] Despliegue de aplicaciones web (0614)
 - [x] Diseño de interfaces web (0615)
 
 ## 9. Datos y empresas
-
-- ¿El proyecto parte de una **empresa** (por ejemplo, de tus prácticas)? ** Si es sí: ¿tienes su **autorización escrita** para usar información suya? **Sí / No / En trámite**. Se plantea como un encargo simulado.
-- ¿Usará **datos personales reales**? **Debe ser que no**: usa datos de ejemplo. 
 
 No es de una empresa, pero usaría esta herramienta como parte de mi trabajo como autónoma.
 Puedo usar datos ficticios a modo ejemplo.
