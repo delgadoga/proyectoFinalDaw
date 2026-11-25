@@ -50,6 +50,13 @@
 
 *Qué **no cubren** las soluciones del apartado 2 y qué aporta tu proyecto. Es tu **propuesta de valor**, en 3-5 líneas, sin exagerar: si hay soluciones mejores que la tuya para algunos usuarios, dilo.*
 
+- Metricool, Buffer y Publer se centran en programar y analizar publicaciones, y Planable en revisarlas con el cliente; en las páginas que consulté no aparece un flujo que una calendario, aprobación del cliente y presupuesto con aceptación registrada.
+- Con Notion o Trello el community manager debe preparar además un PDF aparte para que el cliente revise (doble trabajo) y no queda un registro claro de lo aprobado.
+- El precio de las herramientas comerciales crece con cada marca, canal, cuenta o espacio de trabajo, lo que pesa para un community manager con pocos clientes.
+- CMapp propone un único flujo en español (calendario de contenido, aprobación del cliente y presupuesto) para community managers autónomos y pequeñas agencias, con un coste de infraestructura mínimo.
+
+
+
 ## 6. Decisiones derivadas (CE 1e, 1f, 2b)
 
 *Qué consecuencias tiene este estudio en tu proyecto.*
